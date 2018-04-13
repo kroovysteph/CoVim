@@ -55,7 +55,7 @@ __To quit Vim while CoVim is connected:__ `:CoVim quit` or `:qall!`
 
 
 ## Customization
-#### Add any the following to your .vimrc to customize CoVim:
+#### Add any of the following to your .vimrc to customize CoVim:
 
 ```
 let CoVim_default_name = "YOURNAME"
